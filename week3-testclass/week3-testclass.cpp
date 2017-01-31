@@ -7,6 +7,7 @@
 #include <iostream>
 using namespace std;
 
+// test classes, no definition header file or implementation file yet
 int main()
 {
 	int x = 3;
